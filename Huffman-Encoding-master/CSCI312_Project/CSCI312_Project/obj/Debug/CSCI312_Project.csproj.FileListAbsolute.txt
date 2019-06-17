@@ -1,0 +1,7 @@
+C:\Users\Ross\Desktop\Huffman-Encoding-master\CSCI312_Project\CSCI312_Project\bin\Debug\CSCI312_Project.exe.config
+C:\Users\Ross\Desktop\Huffman-Encoding-master\CSCI312_Project\CSCI312_Project\bin\Debug\CSCI312_Project.exe
+C:\Users\Ross\Desktop\Huffman-Encoding-master\CSCI312_Project\CSCI312_Project\bin\Debug\CSCI312_Project.pdb
+C:\Users\Ross\Desktop\Huffman-Encoding-master\CSCI312_Project\CSCI312_Project\obj\Debug\CSCI312_Project.csprojAssemblyReference.cache
+C:\Users\Ross\Desktop\Huffman-Encoding-master\CSCI312_Project\CSCI312_Project\obj\Debug\CSCI312_Project.csproj.CoreCompileInputs.cache
+C:\Users\Ross\Desktop\Huffman-Encoding-master\CSCI312_Project\CSCI312_Project\obj\Debug\CSCI312_Project.exe
+C:\Users\Ross\Desktop\Huffman-Encoding-master\CSCI312_Project\CSCI312_Project\obj\Debug\CSCI312_Project.pdb

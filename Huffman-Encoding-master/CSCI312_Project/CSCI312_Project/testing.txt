@@ -1,0 +1,2 @@
+﻿This is a test document to make sure that my huffman encoding is working correctly, please ignore
+the contents

@@ -1,0 +1,7 @@
+C:\Users\Aljosa\Desktop\ALGORITMIPROJEKAT\Projekat-Algoritmi-master\Huffman-Encoding-master\CSCI312_Project\CSCI312_Project\bin\Debug\CSCI312_Project.exe.config
+C:\Users\Aljosa\Desktop\ALGORITMIPROJEKAT\Projekat-Algoritmi-master\Huffman-Encoding-master\CSCI312_Project\CSCI312_Project\bin\Debug\CSCI312_Project.exe
+C:\Users\Aljosa\Desktop\ALGORITMIPROJEKAT\Projekat-Algoritmi-master\Huffman-Encoding-master\CSCI312_Project\CSCI312_Project\bin\Debug\CSCI312_Project.pdb
+C:\Users\Aljosa\Desktop\ALGORITMIPROJEKAT\Projekat-Algoritmi-master\Huffman-Encoding-master\CSCI312_Project\CSCI312_Project\obj\Debug\HuffmanCOding_Project.csprojAssemblyReference.cache
+C:\Users\Aljosa\Desktop\ALGORITMIPROJEKAT\Projekat-Algoritmi-master\Huffman-Encoding-master\CSCI312_Project\CSCI312_Project\obj\Debug\HuffmanCOding_Project.csproj.CoreCompileInputs.cache
+C:\Users\Aljosa\Desktop\ALGORITMIPROJEKAT\Projekat-Algoritmi-master\Huffman-Encoding-master\CSCI312_Project\CSCI312_Project\obj\Debug\CSCI312_Project.exe
+C:\Users\Aljosa\Desktop\ALGORITMIPROJEKAT\Projekat-Algoritmi-master\Huffman-Encoding-master\CSCI312_Project\CSCI312_Project\obj\Debug\CSCI312_Project.pdb
